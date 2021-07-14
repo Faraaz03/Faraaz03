@@ -2,12 +2,9 @@
 
 <h1 align="center">Hi there, I'm Md. Faraaz Siddiqui</h1>
 <h3 align="center">Coder aka Developer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faraaz03&label=Profile%20views&color=0e75b6&style=flat" alt="faraaz03" /> </p>
-
-<img align="right" alt="Coding" width="400" src= "https://dribbble.com/shots/6243836-Codility-Illustrations?utm_source=Clipboard_Shot&utm_campaign=nunodias&utm_content=Codility%20Illustrations&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=nunodias&utm_content=Codility%20Illustrations&utm_medium=Social_Share">
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=faraaz03" alt="faraaz03" /></a> </p>
+<img align="right" alt="Coding" width="400" src= "https://github.com/Faraaz03/Image/blob/main/codility-spot-illustrations_4x.png">
 
 - 🔭 I’m currently working on [Android Application Development](with Flutter.)
 
