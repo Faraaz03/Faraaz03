@@ -1,4 +1,4 @@
-[![MasterHead](https://www.canva.com/design/DAEkLtiDadg/share/preview?token=CjmDEgJqQrsPwx5YmOa_5w&role=EDITOR&utm_content=DAEkLtiDadg&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)]
+<img src="https://github.com/Faraaz03/Image/blob/main/developer%20(1).png" alt="Banner" style="height: 100px; width:100px;"/>
 
 <h1 align="center">Hi there, I'm Md. Faraaz Siddiqui</h1>
 <h3 align="center">Coder aka Developer</h3>
