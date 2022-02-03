@@ -1,4 +1,6 @@
-<img src="https://github.com/Faraaz03/Image/blob/main/developer%20(1).png" alt="Banner" style="height: 200px; width: 300px; object-fit: fill; align: center;"/>
+<img src="https://github.com/Faraaz03/Image/blob/main/developer%20(1).png" alt="Banner" style="display: block;
+  margin-left: auto;
+  margin-right: auto;"/>
 
 <h1 align="center">Hi there, I'm Md. Faraaz Siddiqui</h1>
 <h3 align="center">Coder aka Developer</h3>
